@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taches>
+  <tache id="2">
+    <date>2015-11-19</date>
+    <contenu>sdsd</contenu>
+    <categorie>partiel</categorie>
+    <tag>tag2</tag>
+    <cible>2</cible>
+    <statu>1</statu>
+  </tache>
+  <tache id="1">
+    <date>2015-11-17</date>
+    <contenu>my tache</contenu>
+    <categorie>partiel</categorie>
+    <tag>tag2</tag>
+    <cible>1</cible>
+    <statu>0</statu>
+  </tache>
+</taches>

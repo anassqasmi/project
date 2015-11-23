@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+  <categorie id="1">
+    <name>partiel</name>
+  </categorie>
+  <categorie id="2">
+    <name>quiz</name>
+  </categorie>
+  <categorie id="4">
+    <name>td</name>
+  </categorie>
+  <categorie id="5">
+    <name>exercice</name>
+  </categorie>
+</categories>
